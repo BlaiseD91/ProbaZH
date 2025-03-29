@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProbaZH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4369b078e15e1a86a06e93bfa349f74b4b7ff792")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26658178089e5cae4baf582492d5e7773961f8e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProbaZH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProbaZH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
