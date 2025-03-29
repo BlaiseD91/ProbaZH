@@ -1,0 +1,62 @@
+Zárthelyi dolgozat – Programozás 2 (C#)
+Téma: Hallgatói nyilvántartás
+Időtartam: 90 perc
+Pontszám: 100 pont
+
+Leírás:
+A feladat egy hallgatói nyilvántartó rendszer fokozatos bővítése. Az 1. feladat kötelező, mert erre épül minden. A többi feladat önállóan is megoldható, tetszőleges sorrendben.
+
+1. feladat – JSON beolvasás és osztály létrehozása (20 pont)
+A 'students.json' fájl a következő formában tartalmaz hallgatókat:
+
+[
+  {
+    "Name": "Kiss Péter",
+    "Age": 21,
+    "Neptun": "ABC123",
+    "Credits": 42
+  },
+  {
+    "Name": "Nagy Anna",
+    "Age": 22,
+    "Neptun": "XYZ789",
+    "Credits": 36
+  }
+]
+
+Feladat:
+- Készíts egy 'Student' osztályt a fenti mezőkkel.
+- Olvasd be a JSON fájlt egy 'List<Student>' listába.
+- Írd ki minden hallgató nevét és kreditjeit a konzolra.
+
+További feladatok (tetszőleges sorrendben megoldhatók)
+
+2. feladat – Öröklés és virtuális metódus (15 pont)
+- Hozz létre egy 'Person' nevű alaposztályt ('Name', 'Age' mezők).
+- Adj hozzá egy 'virtual string GetInfo()' metódust.
+- A 'Student' örökölje a 'Person'-t, és írja felül a 'GetInfo()' metódust:
+  "Kiss Péter (ABC123), életkor: 21, kreditek: 42"
+
+3. feladat – Interfész és statikus számláló (15 pont)
+- Hozz létre egy 'IIdentifiable' interfészt, benne: 'string GetNeptunCode()'
+- A 'Student' implementálja ezt.
+- Készíts statikus mezőt, amely számolja a példányokat.
+- Írd ki a példányok számát a konzolra.
+
+4. feladat – Generikus lista és keresés (15 pont)
+- Készíts 'Repository<T>' generikus osztályt, belső 'List<T>' mezővel.
+- Legyen benne 'Add()', 'Find(Func<T, bool>)' és 'GetAll()' metódus.
+- Töltsd fel hallgatókkal, és keresd meg azt, akinek Neptun-kódja 'XYZ789'
+
+5. feladat – Absztrakt osztály és leszármazott (15 pont)
+- Készíts 'Document' absztrakt osztályt, benne 'string Title' és 'abstract void Print()'
+- Hozz létre 'StudentCertificate' osztályt, ami örökli ezt.
+- A konstruktor kapjon egy Student példányt, és állítsa be a címet: "Igazolás: Kiss Péter (ABC123)"
+- A 'Print()' metódus írja ki a címet és a kredit számot.
+
+6. feladat – LINQ szűrés és rendezés (20 pont)
+- Szűrd ki azokat a hallgatókat, akiknek több mint 40 kreditjük van.
+- Rendezd őket név szerint növekvő sorrendbe.
+- Írd ki a listát a konzolra: "Kiss Péter – 42 kredit"
+
+Összes pontszám: 100 pont

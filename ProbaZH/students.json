@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "Kiss Peter",
+        "Age": 21,
+        "Neptun": "ABC123",
+        "Credits": 42
+    },
+    {
+        "Name": "Nagy Anna",
+        "Age": 22,
+        "Neptun": "XYZ789",
+        "Credits": 36
+    },
+    {
+        "Name": "Szabo Gabor",
+        "Age": 20,
+        "Neptun": "LMN456",
+        "Credits": 48
+    },
+    {
+        "Name": "Toth Eszter",
+        "Age": 23,
+        "Neptun": "QWE321",
+        "Credits": 55
+    },
+    {
+        "Name": "Farkas Bela",
+        "Age": 24,
+        "Neptun": "RTY654",
+        "Credits": 30
+    }
+]

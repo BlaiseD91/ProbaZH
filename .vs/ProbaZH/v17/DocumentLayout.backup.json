@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\c66533\\Documents\\0329\\probazh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|c:\\users\\c66533\\documents\\0329\\probazh\\probazh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|solutionrelative:probazh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c66533\\Documents\\0329\\ora\\LINQ\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\c66533\\Documents\\0329\\ora\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ora\\LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\c66533\\Documents\\0329\\ora\\LINQ\\Program.cs",
+              "RelativeToolTip": "..\\ora\\LINQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:14:36.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\Program.cs",
+              "RelativeDocumentMoniker": "ProbaZH\\Program.cs",
+              "ToolTip": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\Program.cs",
+              "RelativeToolTip": "ProbaZH\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:04:34.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
