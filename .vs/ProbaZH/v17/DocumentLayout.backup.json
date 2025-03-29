@@ -3,11 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\c66533\\Documents\\0329\\probazh\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|c:\\users\\c66533\\documents\\0329\\probazh\\probazh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|solutionrelative:probazh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|c:\\users\\c66533\\documents\\0329\\probazh\\probazh\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|solutionrelative:probazh\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c66533\\Documents\\0329\\ora\\LINQ\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|c:\\users\\c66533\\documents\\0329\\probazh\\probazh\\studentcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|solutionrelative:probazh\\studentcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|c:\\users\\c66533\\documents\\0329\\probazh\\probazh\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|solutionrelative:probazh\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|c:\\users\\c66533\\documents\\0329\\probazh\\probazh\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|solutionrelative:probazh\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|c:\\users\\c66533\\documents\\0329\\probazh\\probazh\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|solutionrelative:probazh\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|c:\\users\\c66533\\documents\\0329\\probazh\\probazh\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|solutionrelative:probazh\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|c:\\users\\c66533\\documents\\0329\\probazh\\probazh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E40E70-ABC8-4E09-A5BB-041C8B5B263D}|ProbaZH\\ProbaZH.csproj|solutionrelative:probazh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,30 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\c66533\\Documents\\0329\\ora\\LINQ\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ora\\LINQ\\Program.cs",
-              "ToolTip": "C:\\Users\\c66533\\Documents\\0329\\ora\\LINQ\\Program.cs",
-              "RelativeToolTip": "..\\ora\\LINQ\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "StudentCertificate.cs",
+              "DocumentMoniker": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\StudentCertificate.cs",
+              "RelativeDocumentMoniker": "ProbaZH\\StudentCertificate.cs",
+              "ToolTip": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\StudentCertificate.cs",
+              "RelativeToolTip": "ProbaZH\\StudentCertificate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T10:14:36.855Z",
+              "WhenOpened": "2025-03-29T10:41:10.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\Student.cs",
+              "RelativeDocumentMoniker": "ProbaZH\\Student.cs",
+              "ToolTip": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\Student.cs",
+              "RelativeToolTip": "ProbaZH\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:41:05.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\Repository.cs",
+              "RelativeDocumentMoniker": "ProbaZH\\Repository.cs",
+              "ToolTip": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\Repository.cs",
+              "RelativeToolTip": "ProbaZH\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:41:00.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\Person.cs",
+              "RelativeDocumentMoniker": "ProbaZH\\Person.cs",
+              "ToolTip": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\Person.cs",
+              "RelativeToolTip": "ProbaZH\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:40:32.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "ProbaZH\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\IIdentifiable.cs",
+              "RelativeToolTip": "ProbaZH\\IIdentifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:40:25.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\Document.cs",
+              "RelativeDocumentMoniker": "ProbaZH\\Document.cs",
+              "ToolTip": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\Document.cs",
+              "RelativeToolTip": "ProbaZH\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:39:36.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\Program.cs",
               "RelativeDocumentMoniker": "ProbaZH\\Program.cs",
               "ToolTip": "C:\\Users\\c66533\\Documents\\0329\\probazh\\ProbaZH\\Program.cs",
               "RelativeToolTip": "ProbaZH\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T09:04:34.665Z",
               "EditorCaption": ""

@@ -4,10 +4,10 @@ namespace ProbaZH
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            List<Student> students = new List<Student>();
-            Repository<Student> repository = new Repository<Student>();
+            List<Student> students = new();
+            Repository<Student> repository = new();
             using (JsonDocument jsonInput = JsonDocument.Parse(File.ReadAllText("students.json")))
             {
                 foreach (JsonElement studentData in jsonInput.RootElement.EnumerateArray())

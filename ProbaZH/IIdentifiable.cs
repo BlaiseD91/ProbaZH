@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProbaZH
+namespace ProbaZH;
+
+internal interface IIdentifiable
 {
-    internal interface IIdentifiable
-    {
-        string GetNeptunCode();
-    }
+    string GetNeptunCode();
 }
